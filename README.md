@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Naomi 👋
 
-<!--
-**Nanaxo99/Nanaxo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in PR and earned media at 9-Figure Media, helping people and brands with media opportunities, thought leadership and visibility.
 
-Here are some ideas to get you started:
+I'm interested in where media, business, ideas and human experience meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍️ **Writing:** I publish [Marginalia](https://marginaliabycheta.substack.com) on Substack, exploring business, marketing, ideas, faith, productivity and the occasional rabbit hole. I also apply frameworks like Blue Ocean Strategy to real businesses.
+- 🛠️ **Building:** Small tools and experiments for reading, focus and productivity, currently with Claude.
+- 📚 **Learning:** Business models, human behaviour, communication, strategy and how people turn ideas into things that matter.
+
+I like asking questions, connecting seemingly unrelated ideas and figuring out how things work. Still learning, building and documenting along the way.
+
+**Find me:** [Substack](https://marginaliabycheta.substack.com) · [LinkedIn](linkedin.com/in/mbah-naomi) · [Instagram](https://www.instagram.com/naoluvv/)

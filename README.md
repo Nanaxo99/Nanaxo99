@@ -4,9 +4,11 @@ I work in PR and earned media at 9-Figure Media, helping people and brands with 
 
 I'm interested in where media, business, ideas and human experience meet.
 
-- ✍️ **Writing:** I publish [Marginalia](https://marginaliabycheta.substack.com) on Substack, exploring business, marketing, ideas, faith, productivity and the occasional rabbit hole. I also apply frameworks like Blue Ocean Strategy to real businesses.
-- 🛠️ **Building:** Small tools and experiments for reading, focus and productivity, currently with Claude.
-- 📚 **Learning:** Business models, human behaviour, communication, strategy and how people turn ideas into things that matter.
+I publish [Marginalia](https://marginaliabycheta.substack.com) on Substack, exploring business, marketing, ideas, faith, productivity and the occasional rabbit hole. I also apply frameworks like Blue Ocean Strategy to real businesses.
+
+Building small tools and experiments for reading, focus and productivity.
+
+Learning business models, human behaviour, communication, strategy and how people turn ideas into things that matter.
 
 I like asking questions, connecting seemingly unrelated ideas and figuring out how things work. Still learning, building and documenting along the way.
 
